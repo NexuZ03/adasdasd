@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.ActividadPrincipal">
+    <item
+        android:id="@+id/jmiInicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/jmiCategoria"
+        android:title="Categoria" />
+    <item
+        android:id="@+id/jmiProducto"
+        android:title="Producto" />
+    <item
+        android:id="@+id/jmiCargo"
+        android:title="Cargo" />
+    <item
+        android:id="@+id/jmiCerrar"
+        android:title="Cerrar Sesion" />
+    <item
+        android:id="@+id/jmiSalir"
+        android:title="Salir" />
+</menu>
